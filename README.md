@@ -1,4 +1,4 @@
-# Speech Command Recognition for Wheelchair Navigation
+# Speech Command Recognition for Wheelchair Navigation 🗣️🧑‍🦼‍➡️
 
 Content of repo:
 <ul>
